@@ -12,6 +12,10 @@ using NUnit.Framework;
 using Moq;
 using Sermo.UI.Contracts;
 
+/// <summary>
+/// Developer: Tom Gibbons
+/// </summary>
+
 namespace Sermo.UnitTests
 {
     [TestFixture]

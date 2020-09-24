@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/// <summary>
+/// Developer: Tom Gibbons
+/// </summary>
+
 namespace Sermo.Data.Contracts
 {
     public class MessageRecord
